@@ -1,3 +1,5 @@
+<p align="center"><img src="https://github.com/user-attachments/assets/fec7fa82-a8f1-4d9f-b1d8-303134c77dda"></p>
+
 <h1 align="center">Hi 👋, I'm Likith Metikala</h1>
 <h3 align="center">A passionate Fullstack Developer from India</h3>
 
