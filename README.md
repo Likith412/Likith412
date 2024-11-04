@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React JS, Node JS**
 
-- 📫 How to reach me **likithmetikala@gmail.com**
+- 📫 How to reach me **likithmetikalacs@gmail.com**
 
 - ⚡ Fun fact **I think I am funny**
 
