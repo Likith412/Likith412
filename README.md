@@ -18,15 +18,10 @@
 
 # 📊 GitHub Stats:
 
-<div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Likith412&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
-    <br/>
-</div>
-<div>
-    <img src="https://github-readme-stats.vercel.app/api?username=Likith412&theme=radical&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Likith412&theme=radical&hide_border=false" alt="Streak Stats" />
-</div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=likith412&theme=default&show_icons=true&hide_border=true&layout=compact" alt="likith-metikala" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=likith412&theme=default&show_icons=true&hide_border=true&count_private=true" alt="likith-metikala" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=likith412&theme=default&hide_border=true" alt="likith-metikala" /></p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
